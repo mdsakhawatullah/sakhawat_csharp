@@ -1,0 +1,14 @@
+E:\ConsoleApp2\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\ConsoleApp2\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\ConsoleApp2\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\ConsoleApp2\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\ConsoleApp2\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\ConsoleApp2\Arrays\obj\Debug\net8.0\ref\Arrays.dll
