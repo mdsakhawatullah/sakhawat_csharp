@@ -1,0 +1,14 @@
+F:\C#--B16\PracticeProblem\Problem3\bin\Debug\net8.0\Problem3.exe
+F:\C#--B16\PracticeProblem\Problem3\bin\Debug\net8.0\Problem3.deps.json
+F:\C#--B16\PracticeProblem\Problem3\bin\Debug\net8.0\Problem3.runtimeconfig.json
+F:\C#--B16\PracticeProblem\Problem3\bin\Debug\net8.0\Problem3.dll
+F:\C#--B16\PracticeProblem\Problem3\bin\Debug\net8.0\Problem3.pdb
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.AssemblyInfoInputs.cache
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.AssemblyInfo.cs
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.csproj.CoreCompileInputs.cache
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.dll
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\refint\Problem3.dll
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.pdb
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\Problem3.genruntimeconfig.cache
+F:\C#--B16\PracticeProblem\Problem3\obj\Debug\net8.0\ref\Problem3.dll
