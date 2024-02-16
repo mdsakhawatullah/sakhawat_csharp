@@ -1,0 +1,14 @@
+F:\C#--B16\problemSolutionSet\problem6\bin\Debug\net8.0\problem6.exe
+F:\C#--B16\problemSolutionSet\problem6\bin\Debug\net8.0\problem6.deps.json
+F:\C#--B16\problemSolutionSet\problem6\bin\Debug\net8.0\problem6.runtimeconfig.json
+F:\C#--B16\problemSolutionSet\problem6\bin\Debug\net8.0\problem6.dll
+F:\C#--B16\problemSolutionSet\problem6\bin\Debug\net8.0\problem6.pdb
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.AssemblyInfoInputs.cache
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.AssemblyInfo.cs
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.csproj.CoreCompileInputs.cache
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.dll
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\refint\problem6.dll
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.pdb
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\problem6.genruntimeconfig.cache
+F:\C#--B16\problemSolutionSet\problem6\obj\Debug\net8.0\ref\problem6.dll
