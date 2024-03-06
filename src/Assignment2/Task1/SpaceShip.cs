@@ -6,14 +6,20 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-    public abstract class SpaceShip
+    public  class SpaceShip<T, Q>
+        where Q : SpaceShip<T, Q>, new()
     {
-        public double Speed { get; set; }
-        public abstract object CloneShip();
+        public  T Speed { get; set; }
 
-        public SpaceShip(double speed)
+        public virtual Q CloneShip()
         {
-            Speed = speed;
+       
+            return new Q();
+        }
+
+        public SpaceShip()
+        {
+            
         }
     }
 }

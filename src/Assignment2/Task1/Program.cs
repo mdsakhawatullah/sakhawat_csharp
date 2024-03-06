@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Task1;
+
+
+Battleship<int> speedBattleship = new Battleship<int>();
+speedBattleship.Speed = 100;
+
+Console.WriteLine($"Speed: {speedBattleship.Speed}");
+
+Cruiser<int> speedCruiser = new Cruiser<int>();
+speedCruiser.Speed = 15;
+
+
+
+

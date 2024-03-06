@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-    public class Battleship<T> : SpaceShip<T, Battleship<T>>
-    {
+	public class Cruiser<T> : SpaceShip<T, Cruiser<T>>
+	{
         
     }
+
 }

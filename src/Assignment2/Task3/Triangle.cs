@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    internal class Triangle
+    public class Triangle : IShape
     {
+        public double Height {  get; set; }
+        public double Base { get; set; }
+
+        public Triangle(double height, double bs)
+        {
+            Height = height;
+            Base = bs;
+        }
+
+        public double CalculateArea()
+        {
+            return 0.5 * Height * Base;
+        }
+
+        public double CalculatePerimeter()
+        {
+            return (Height * Base) / 2;
+        }
+
     }
 }
