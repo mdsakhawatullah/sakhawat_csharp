@@ -237,8 +237,24 @@ namespace Project
 
                             break;
                         case "2":
-                            //edit
-                           
+                            //view
+
+                            Console.WriteLine("-----View Operation-----");
+                            List<TeacherRoom> teacherRoomList = dbContext.TeachersTeachers.ToList();
+
+                            Console.WriteLine("----All Student Name---");
+
+                           foreach(TeacherRoom cls in teacherRoomList)
+                            {
+                                Console.WriteLine("Name: " + cls.StudentName+"-----" + "Grade: " + cls.Grade);
+                                Console.WriteLine();
+                            }
+
+                      
+
+                            dbContext.SaveChanges();
+
+
                             break;
 
                         default:
